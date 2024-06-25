@@ -4,13 +4,19 @@
 Welcome to my Image Recognition project repository! This project focuses on using Logistic Regression to achieve 96% accuracy in recognizing images based on pixel data.
 
 # Project Overview:
-**Objective:** Implement Logistic Regression for image classification.
-**Accuracy:** Achieved impressive 96% accuracy on test data.
-**Libraries Used:** Python (NumPy 🧮, Pandas 🐼, Matplotlib 📊, Seaborn 🐬, Scikit-learn 🧬).
+**Objective:**
+Implement Logistic Regression for image classification.
+**Accuracy:**
+Achieved impressive 96% accuracy on test data.
+**Libraries Used:**
+Python (NumPy 🧮, Pandas 🐼, Matplotlib 📊, Seaborn 🐬, Scikit-learn 🧬).
 # Key Features:
-**Data Preprocessing:** Utilized Pandas and NumPy for data manipulation and preprocessing.
-**Model Development:** Implemented Logistic Regression using Scikit-learn.
-**Evaluation:** Evaluated model performance and achieved high accuracy through thorough testing.
+**Data Preprocessing:** 
+Utilized Pandas and NumPy for data manipulation and preprocessing.
+**Model Development:**
+Implemented Logistic Regression using Scikit-learn.
+**Evaluation:** 
+Evaluated model performance and achieved high accuracy through thorough testing.
  
 **Future Work:**
 Experiment with deep learning models for potentially higher accuracy.
